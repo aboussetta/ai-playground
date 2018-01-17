@@ -13,6 +13,6 @@ Content of this repository will come from the following sources:
 - [Sachinruk's DeepSchool.IO](https://github.com/sachinruk/deepschool.io/)
 - [Deep-learning Book](http://www.deeplearningbook.org/)
 - [Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
-- [Deep Reinforment Learning Bootcamp](https://people.eecs.berkeley.edu/~pabbeel/)
+- [Deep Reinforcement Learning Bootcamp](https://people.eecs.berkeley.edu/~pabbeel/)
 - [Udacity's Deep-Learning Foundation ND](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101):dollar:
 - [Udacity's Artificial Intelligence ND](https://www.udacity.com/ai):dollar:
