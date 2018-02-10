@@ -10,6 +10,9 @@
    - Evaluate model
    - Make predictions on unseen data
 
+# Videos 
+- [Keras Deep-learning Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
+- [Keras Explained, Siraj Raval](https://www.youtube.com/watch?v=j_pJmXJwMLA)
 
 ### [Another Keras Tutorial For Neural Network Beginners, David Sheehan](https://dashee87.github.io/data%20science/deep%20learning/python/another-keras-tutorial-for-neural-network-beginners/) (with [Jupyter Notebook](https://github.com/dashee87/blogScripts/blob/master/Jupyter/2017-09-06-another-keras-tutorial-for-neural-network-beginners.ipynb))
  - Criticized aforementioned article by Jason Brownlee above for not mentioning overfitting, and emphasized **overfitting prevention techniques** _(early-stopping, dropouts)_
