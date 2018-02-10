@@ -10,10 +10,6 @@
    - Evaluate model
    - Make predictions on unseen data
 
-# Videos 
-- [Keras Deep-learning Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
-- [Keras Explained, Siraj Raval](https://www.youtube.com/watch?v=j_pJmXJwMLA)
-
 ### [Another Keras Tutorial For Neural Network Beginners, David Sheehan](https://dashee87.github.io/data%20science/deep%20learning/python/another-keras-tutorial-for-neural-network-beginners/) (with [Jupyter Notebook](https://github.com/dashee87/blogScripts/blob/master/Jupyter/2017-09-06-another-keras-tutorial-for-neural-network-beginners.ipynb))
  - Criticized aforementioned article by Jason Brownlee above for not mentioning overfitting, and emphasized **overfitting prevention techniques** _(early-stopping, dropouts)_
  - **Best takeaway**:  Use hyper parameter optimization to select model with best performance like [repeated validation (StratifiedKFold for example)](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html).
@@ -28,6 +24,10 @@
   - Gives an overview of how to use grid search capability from the scikit-learn python machine learning library to tune the hyperparameters of Keras deep learning model
   - Discusses how to tune batch size and training epochs, optimization algorithms, learning rate and momentum, network weight initialization, activation functions, dropout regularization, number of neurons in the hidden layer.
 
+
+# Videos 
+- [Keras Deep-learning Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
+- [Keras Explained, Siraj Raval](https://www.youtube.com/watch?v=j_pJmXJwMLA)
 
 
 # Other Beginner Short Keras / ML Articles  
