@@ -19,6 +19,6 @@ Content of this repository will come from the following sources:
 - [Deep Reinforcement Learning Bootcamp](https://people.eecs.berkeley.edu/~pabbeel/)
 - [Artificial General Intelligence](https://agi.mit.edu/)
 - [Learn Machine Learning, The Self-Starter Way](https://elitedatascience.com/learn-machine-learning) and [8 Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
-- [Convolutional Networks](http://cs231n.github.io/convolutional-networks/)
+- [Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
 - [Udacity's Deep-Learning Foundation ND](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101):dollar:
 - [Udacity's Artificial Intelligence ND](https://www.udacity.com/ai):dollar:
