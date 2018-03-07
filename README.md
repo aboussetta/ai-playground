@@ -7,6 +7,7 @@ deep-learning concepts as I learn about them.
 
 Content of this repository will come from the following sources:
 
+- [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu/)
 - [Google's Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/)
 - [Fast.AI](https://fast.ai)
 - [Andrew Ng's Deep Learning (dot) AI](https://www.deeplearning.ai)
